@@ -1,5 +1,4 @@
 # OTP-Validation-Console-Based-project
-# OTP Verification System
 
 ## Overview
 This Python script implements a simple **OTP (One-Time Password) verification system** using **SMTP (Simple Mail Transfer Protocol)**. It generates a **random OTP**, sends it via email, and verifies the user input to authenticate the OTP.
